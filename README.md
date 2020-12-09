@@ -4,6 +4,18 @@ Machine Coding rounds format .. flipkart RideShare for SDE2
 ```  java -version ``` 
 
 
+Download Eclipse
+
+Write code
+
+models -> all the object fileds
+logic -> all the business logic
+driver -> driver class
+Right click > source > Generate Getter & setter and many more
+
+Run the code
+
+
 ![alt text](https://github.com/Akshansh05/RideShare_MachineCoding_Sample/blob/main/f1.png)
 
 

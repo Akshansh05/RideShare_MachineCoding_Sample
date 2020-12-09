@@ -4,6 +4,14 @@ Machine Coding rounds format .. flipkart RideShare for SDE2
 ```  java -version ``` 
 
 
+![alt text](https://github.com/Akshansh05/RideShare_MachineCoding_Sample/blob/main/f1.png)
+
+
+
+![alt text](https://github.com/Akshansh05/RideShare_MachineCoding_Sample/blob/main/f2.png)
+
+
+
 Output
 ```
 Ride is given by Shipra With Vehicle KA-05-41491 to Nandani

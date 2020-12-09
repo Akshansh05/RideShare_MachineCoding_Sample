@@ -9,8 +9,11 @@ Download Eclipse
 Write code
 
 models -> all the object fileds
+
 logic -> all the business logic
+
 driver -> driver class
+
 Right click > source > Generate Getter & setter and many more
 
 Run the code
